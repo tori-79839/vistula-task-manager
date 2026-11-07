@@ -8,7 +8,7 @@ GitHub: tori-79839
 - Contribution JSON: https://tori-79839.github.io/vistula-task-manager/contribution.json
 
 ## Pull Requests
-- PR I created in my partner's repo: PASTE_LINK
-- PR I received and merged: PASTE_LINK
+- PR I created in my partner's repo: https://github.com/farai-79793/vistula-task-manager/pull/1
+- PR I received and merged: https://github.com/farai-79793/vistula-task-manager/pull/1
 
 Stack: HTML, CSS, JavaScript, Supabase REST API, GitHub Pages.
